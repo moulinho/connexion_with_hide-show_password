@@ -1,0 +1,16 @@
+form {
+  margin: 10vw 0;
+  text-align: center;
+  text-align: -webkit-center;
+}
+.panel-default {
+  width: 350px;
+  text-align: center;
+}
+#passContent {
+  display: flex;
+}
+
+#passContent input {
+  margin-right: 10px;
+}
